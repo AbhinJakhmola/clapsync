@@ -1,0 +1,7 @@
+Guild:		Two and a Half Sem#737245471298289745
+Channel:	Rhythmic Clapping#752168599900127283
+Requester:	BadBeetle69#1242
+Start time:	2020-10-25T15:08:42.892Z
+Tracks:
+	clicheduh#1904    55 ms
+	Applecider#3388	  15 ms
